@@ -27,7 +27,6 @@ class MoveableCircle implements Moveable{
     }
     
     public String toString() {
-        return String.format("MoveableCircle at point %1$s with radius = %2$d"
-                            , center.toString(), radius);
+        return String.format("MoveableCircle at point %1$s with radius = %2$d" , center.toString(), radius);
     }
 }
