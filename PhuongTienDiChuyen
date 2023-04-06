@@ -1,6 +1,6 @@
 package lab7;
 
-abstract class PTDC{
+abstract class PhuongTienDiChuyen{
 	public void batDau() {
 		System.out.println("________");
 	}
